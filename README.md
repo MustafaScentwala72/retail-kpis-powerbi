@@ -54,3 +54,17 @@ Build a clean, decision-ready dashboard for:
 - `Retail-KPIs-PowerBI.pbix` → Power BI report file
 - `exports/screenshots/` → dashboard screenshots for preview
 - `README.md` → project documentation
+
+## Screenshots
+
+### Executive
+![Executive](exports/screenshots/01_Executive.png)
+
+### Ops
+![Ops](exports/screenshots/02_Ops.png)
+
+### Product
+![Product](exports/screenshots/03_Product.png)
+
+### Customer
+![Customer](exports/screenshots/04_Customer.png)
