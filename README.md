@@ -45,10 +45,10 @@ Build a clean, decision-ready dashboard for:
 - Sales Rolling 12M
 
 ## How to open
-1. Download the `.pbix` file from this repo:
-   - `Retail-KPIs-PowerBI.pbix`
+1. Download `Retail-KPIs-PowerBI.pbix` from this repo
 2. Open it in **Power BI Desktop**
-3. If prompted, allow the dataset refresh
+3. Use the slicers to filter by Region, Category, Segment, and Sub-Category
+4. If prompted, click **Refresh** to load the data
 
 ## Repo structure
 - `Retail-KPIs-PowerBI.pbix` → Power BI report file
@@ -68,3 +68,4 @@ Build a clean, decision-ready dashboard for:
 
 ### Customer
 ![Customer](exports/screenshots/04_Customer.png)
+
